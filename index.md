@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+# Vexus
+
+### Humble Beginnings
+
 ---
 
